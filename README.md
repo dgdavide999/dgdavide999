@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate developer from italy</h3>
-<p align="left"> nquisitive and motivated programmer recently graduated cum laude in computer science
+<p align="left"> Inquisitive and motivated programmer recently graduated cum laude in computer science
 and currently attending the University of Genoa for the Masters degree in Software Security
 and Engineering. Skilled in coding with the ability to manage and design internal software
 systems. Cooperative, engaged and professional during the process alongside the designers
